@@ -1,0 +1,55 @@
+.profile-img{
+    height: 150px;
+    width: 150px;
+}
+.img-content{
+    margin-left: 15rem;    
+    color: black;
+}
+.img-content h1{
+    font-size: 60px;
+}
+.img-content1{
+    margin-bottom: 5rem;
+    margin-right: 9rem;
+    color: black;
+}
+.img-content1 h1{
+    font-size: 60px;
+}
+.nav-bar{
+    background-color: rgba(135, 207, 235, 0.295);
+    padding-top: 6rem;
+    height: 100vh;
+}
+.con1{
+    height: 100vh;
+    /* background-color: brown; */
+}
+ .hero-div{
+    /* background-color: blueviolet; */
+    height: 100vh;
+} 
+.img-hero{
+    height: 100vh;
+}
+.about-us{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+}
+.about-us h6{
+    color: gray;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+}
+.about-us h4{
+    margin-bottom: 2rem;
+    font-weight: bold;
+    
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
